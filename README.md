@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sandeep Jangra
 - 👀 I’m interested in writing scripts for Functional & API automation.
-- 🌱 I’m currently Python.
+- 🌱 I’m currently learning Python.
 - 💞️ I'm looking forward to working together.
 - 📫 You can reach me by (https://www.linkedin.com/in/sandeep-jangra-7b337370/)
 
